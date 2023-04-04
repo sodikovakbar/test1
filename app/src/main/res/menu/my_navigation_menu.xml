@@ -3,18 +3,18 @@
 
     <item
         android:id="@+id/home"
-        android:icon="@drawable/ic_baseline_home_24"
-        android:title="home" />
+        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:title="Name" />
     <item
         android:id="@+id/settings"
-        android:icon="@drawable/ic_baseline_settings_24"
-        android:title="settings" />
+        android:icon="@drawable/ic_baseline_format_list_numbered_24"
+        android:title="Number" />
     <item
         android:id="@+id/favouret"
-        android:icon="@drawable/ic_baseline_favorite_border_24"
-        android:title="favourite" />
+        android:icon="@drawable/ic_baseline_text_snippet_24"
+        android:title="ID" />
     <item
         android:id="@+id/about"
-        android:icon="@drawable/ic_baseline_info_24"
-        android:title="about" />
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Add" />
 </menu>

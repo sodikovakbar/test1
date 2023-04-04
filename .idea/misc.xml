@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/drawable/fon.xml" value="0.1185" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.149" />
         <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.149" />
         <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/activity_main2.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/header_item.xml" value="0.7875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/header_item.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/item_dialog.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/layout/item_rv.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/bottomnavigationview/app/src/main/res/menu/my_navigation_menu.xml" value="0.22447916666666667" />
       </map>
     </option>
